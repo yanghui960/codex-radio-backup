@@ -1,0 +1,7 @@
+# secrets / backups never enter this repo
+config.json
+*.key
+*.pem
+codex-radio-backup/
+backup/
+*.log
